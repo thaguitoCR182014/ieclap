@@ -1,0 +1,12 @@
+db.createCollection("users");
+usuarios={
+	nombre: "aaa",
+	telefono: 0,
+	direccion: "",
+	longitud:1.0,
+	latitud: 1.0,
+	tipo: false,
+	foto:"",
+	fechaNac:"27/09/1993"
+
+}
